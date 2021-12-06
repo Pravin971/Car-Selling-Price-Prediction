@@ -16,6 +16,7 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints==0.3
 Flask==2.0.2
 fonttools==4.28.2
+gunicorn==20.1.0
 idna==3.3
 importlib-metadata @ file:///C:/ci/importlib-metadata_1631916842152/work
 ipykernel @ file:///C:/ci/ipykernel_1633527406033/work/dist/ipykernel-6.4.1-py3-none-any.whl
